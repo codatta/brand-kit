@@ -33,6 +33,7 @@ TBD.
 ### Logos
 
 ![InProduct](logo/in-product/Codatta_BlackBG_White.svg)
+![InProduct](logo/in-product/Codatta_WhiteBG_Black.svg)
 
 
 | Symbol                                                   | Symbol + Wordmark                                                           | Wordmark                                                       |
