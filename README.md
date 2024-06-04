@@ -35,7 +35,7 @@ TBD.
 ![InProduct](logo/in-product/Codatta_BlackBG_White.svg)
 
 
-| Symbol                                                   | Logotype                                                           | Wordmark                                                       |
+| Symbol                                                   | Symbol + Wordmark                                                           | Wordmark                                                       |
 | -------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
 | ![SymbolWhite](logo/symbol/Codatta_Symbol_White.png)     | ![LogotypeWhite](logo/logotype/Codatta_Logotype_White.png)     | ![WordmarkWhite](logo/wordmark/Codatta_Wordmark_White.png)     |
 | ![SymbolBlack](logo/symbol/Codatta_Symbol_Black.png) | ![LogotypeBlack](logo/logotype/Codatta_Logotype_Black.png) | ![WordmarkBlack](logo/wordmark/Codatta_Wordmark_Black.png) |
