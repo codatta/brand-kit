@@ -24,7 +24,7 @@ codatta is a permissionless, decentralized data protocol that enables community 
 
 ### Guide
 
-TBD.
+[(codatta Brand Guide)](guide/Brand%20guide%20and%20logos%20for%20codatta.md)
 
 ### Fonts
 
