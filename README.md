@@ -1,10 +1,10 @@
 <!-- ![codatta](logo.webp) -->
 
-# Codatta brand-kit
+# codatta brand-kit
 
-This repo contains a guide, fonts and logos for the Codatta Protocol brand.
+This repo contains a guide, fonts and logos for the codatta Protocol brand.
 
-Codatta is a permissionless, decentralized data protocol that enables community collaboration to create high-quality, comprehensive data assets, empowering AI and data products.
+codatta is a permissionless, decentralized data protocol that enables community collaboration to create high-quality, comprehensive data assets, empowering AI and data products.
 
 <!-- Badge row 1 - status -->
 [![GitHub contributors](https://img.shields.io/github/contributors/codatta/brand-kit)](https://github.com/codatta/brand-kit/graphs/contributors)
