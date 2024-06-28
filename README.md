@@ -25,7 +25,7 @@
 **codatta** is a collection of protocol and software designed to facilitate the creation and aggregation of data, enabling a set of Web3 use-cases. By leveraging a decentralized approach, codatta enables community collaboration on sourcing extensible scope of data, to maximize data coverage and ensuring data confidence. This file provides details regarding how to use our logos and brand name. 
 
 ### Logo & lockups
-[(codatta Logo Guide)](https://github.com/codatta/brand-kit/blob/main/guide/codatta%20Guide.pdf)
+- [codatta Logo Guide](https://github.com/codatta/brand-kit/blob/main/guide/codatta%20Guide.pdf)
 
 ### Make Sure
 - Always, always write the brand name as "codatta", with a lowercase "c". Fight hard against auto capitalization.
@@ -37,7 +37,7 @@ Our logo, lockups, and brand name are essential for establishing codatta's ident
 
 ## Fonts
 
-TBD.
+Geometric sans serif typefaces have always been popular, and with support for both the Devanagari and Latin writing systems, Poppins is an internationalist addition to the genre.
 
 ## Logos
 
