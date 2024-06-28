@@ -29,7 +29,9 @@
 
 ### Make Sure
 - Always, always write the brand name as "codatta", with a lowercase "c". Fight hard against auto capitalization.
-- Set a minimum size requirement to ensure visibility
+- Minimum size:
+	- Digital Application: min. height = 20dp
+	- Print Application: min. height = 0.130in
 - Choose within the color options, such as balck and white only
 - Not to alter colors of logos and backgrounds
 
