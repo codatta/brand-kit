@@ -24,8 +24,11 @@
 
 **codatta** is a collection of protocol and software designed to facilitate the creation and aggregation of data, enabling a set of Web3 use-cases. By leveraging a decentralized approach, codatta enables community collaboration on sourcing extensible scope of data, to maximize data coverage and ensuring data confidence. This file provides details regarding how to use our logos and brand name. 
 
+### Lowercase Brand Name
+When referring to our brand name "codatta," please ensure to use it in all lowercase letters (e.g., codatta). Consistency in lowercase styling is important to maintain our brand identity across all communications and materials.
+
 ### Logo & lockups
-- [codatta Logo Guide](https://github.com/codatta/brand-kit/blob/main/guide/codatta%20Guide.pdf)
+- [codatta Logo Guidelines](https://github.com/codatta/brand-kit/blob/main/guide/brand_guideline.pdf)
 
 ### Make Sure
 - Always, always write the brand name as "codatta", with a lowercase "c". Fight hard against auto capitalization.
