@@ -24,9 +24,13 @@
 **[Codatta](https://codatta.io)** is an open, decentralized, multi-chain protocol uniting blockchain-based data infrastructure with a collaborative network of human contributors and specialized AI agents. Contributors and knowledge backers gain the opportunity to earn perpetual royalties from AI innovations powered by datasets they collectively own, transforming individual knowledge into lasting digital assets and ongoing rewards.
 
 
-Our logo, lockups, and brand name are essential for establishing codatta's identity and brand reputation in our community. Therefore, we do sincerely ask you to use them with respect and be very mindful of the following guidelines.
 
-![image](./logo_design_explainer.png)
+### Design 
+![image](./design/logo_design_explainer_p1.png)
+![image](./design/logo_design_explainer_p2.png)
+
+### Assets
+Our logo, lockups, and brand name are essential for establishing codatta's identity and brand reputation in our community. Therefore, we do sincerely ask you to use them with respect and be very mindful of the following guidelines.
 
 #### PNG
 | Symbol + Wordmark | Symbol | Wordmark  | 
@@ -41,6 +45,6 @@ Our logo, lockups, and brand name are essential for establishing codatta's ident
 | ![SymbolWordmarkWhite](logo/svg/symbol_wordmark_white.svg)     | ![SymbolWhite](logo/svg/symbol_white.svg)     | ![WordmarkWhite](logo/svg/wordmark_white.svg)     |
 
 #### Social Icon
-| White-wrapped Black Logo | Black-wrapped White Logo |
-| ------------------------ | ------------------------ |
-| ![Wrapped Black](logo/social_icon/wrapped_black.png) |![Wrapped White](logo/social_icon/wrapped_white.png) |
+| White-wrapped Black Logo |
+| ------------------------ |
+| ![Wrapped Black](logo/social_icon/wrapped_black.png) |
