@@ -21,7 +21,19 @@
 ## Brand Guide
 
 ### About
-**codatta** is a collection of protocol and software designed to facilitate the creation and aggregation of data, enabling a set of Web3 use-cases. By leveraging a decentralized approach, codatta enables community collaboration on sourcing extensible scope of data, to maximize data coverage and ensuring data confidence. This file provides details regarding how to use our logos and brand name. 
+**[Codatta](https://codatta.io)** is an open, decentralized, multi-chain protocol uniting blockchain-based data infrastructure with a collaborative network of human contributors and specialized AI agents. Contributors and knowledge backers gain the opportunity to earn perpetual royalties from AI innovations powered by datasets they collectively own, transforming individual knowledge into lasting digital assets and ongoing rewards.
 
 
 Our logo, lockups, and brand name are essential for establishing codatta's identity and brand reputation in our community. Therefore, we do sincerely ask you to use them with respect and be very mindful of the following guidelines.
+
+#### PNG
+| Symbol + Wordmark | Symbol | Wordmark  | 
+| ----------------- | ------ | --------- |
+| ![SymbolWordmarkBlack](logo/png/symbol_wordmark_black.png)     | ![SymbolBlack](logo/png/symbol_black.png)     | ![WordmarkBlack](logo/png/wordmark_black.png)     |
+| ![SymbolWordmarkWhite](logo/png/symbol_wordmark_white.png)     | ![SymbolWhite](logo/png/symbol_white.png)     | ![WordmarkWhite](logo/png/wordmark_white.png)     |
+
+#### SVG
+| Symbol + Wordmark | Symbol | Wordmark  | 
+| ----------------- | ------ | --------- |
+| ![SymbolWordmarkBlack](logo/svg/symbol_wordmark_black.svg)     | ![SymbolBlack](logo/svg/symbol_black.svg)     | ![WordmarkBlack](logo/svg/wordmark_black.svg)     |
+| ![SymbolWordmarkWhite](logo/svg/symbol_wordmark_white.svg)     | ![SymbolWhite](logo/svg/symbol_white.svg)     | ![WordmarkWhite](logo/svg/wordmark_white.svg)     |
