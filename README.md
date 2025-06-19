@@ -26,6 +26,8 @@
 
 Our logo, lockups, and brand name are essential for establishing codatta's identity and brand reputation in our community. Therefore, we do sincerely ask you to use them with respect and be very mindful of the following guidelines.
 
+![image](./logo_design_explainer.png)
+
 #### PNG
 | Symbol + Wordmark | Symbol | Wordmark  | 
 | ----------------- | ------ | --------- |
