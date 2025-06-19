@@ -43,4 +43,4 @@ Our logo, lockups, and brand name are essential for establishing codatta's ident
 #### Social Icon
 | White-wrapped Black Logo | Black-wrapped White Logo |
 | ------------------------ | ------------------------ |
-| ![Wrapped Black](logo/social_icon/social_network_round_black.png) |![Wrapped White](logo/social_icon/social_network_round_black.png) | 
+| ![Wrapped Black](logo/social_icon/wrapped_black.png) |![Wrapped White](logo/social_icon/wrapped_white.png) |
