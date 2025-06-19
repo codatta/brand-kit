@@ -1,6 +1,6 @@
 <!-- ![codatta](logo.webp) -->
 
-# codatta brand-kit
+# Codatta brand-kit
 
 <!-- Badge row 1 - status -->
 [![GitHub contributors](https://img.shields.io/github/contributors/codatta/brand-kit)](https://github.com/codatta/brand-kit/graphs/contributors)
